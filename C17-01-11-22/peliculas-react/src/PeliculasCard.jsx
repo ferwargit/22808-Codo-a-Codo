@@ -1,4 +1,4 @@
-
+import './PeliculasCard.css';
 
 export function PeliculasCard({pelicula}) {
     // const imgURL = `https://image.tmdb.org/t/p/w300${pelicula.poster_path}`;

@@ -190,3 +190,49 @@ export function PeliculasCard({pelicula}) {
     )
 }
 ```
+# Estilo App.css
+```css
+.title{
+  text-align: center;
+  font-size: 3rem;
+  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
+}
+```
+# Estilo PeliculasGrid.css
+```css
+.moviesGrid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 230px);
+    gap: 40px;
+    padding: 40px;
+    justify-content: center;
+}
+
+@media (max-width: 560px) {
+    .moviesGrid{
+        grid-template-columns: 100%;
+    }
+}
+```
+# Estilo PeliculasCard.css
+```css
+.movieCard{
+    list-style: none;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.movieImage{
+    border-radius: 10px;
+    background-color: azure;
+    width: 230px;
+    height: 345px;
+}
+
+@media (max-width: 560px) {
+    .movieImage{
+        width: 90%;
+        height: auto;
+    }
+}
+```

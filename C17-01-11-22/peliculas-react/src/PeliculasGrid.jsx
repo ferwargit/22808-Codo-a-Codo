@@ -1,3 +1,4 @@
+import './PeliculasGrid.css';
 import peliculas from './peliculas.json';
 import { PeliculasCard } from './PeliculasCard';
 
