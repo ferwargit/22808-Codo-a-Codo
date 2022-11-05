@@ -74,11 +74,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ```
 >npx create-react-app peliculas-react
 ```
-
+Puedo ser mas específico y decirle que use npm
+```
+>npx create-react-app peliculas-react --use-npm
+```
+***
 ```
 >cd peliculas-react
 ```
-
+***  
+```
+npm run start
+```
+Se puede usar sin run
 ```
 npm start
 ```
