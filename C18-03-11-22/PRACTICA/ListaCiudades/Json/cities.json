@@ -1,0 +1,3227 @@
+[
+  {
+    "Version": 1,
+    "Key": "28143",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Daca",
+    "EnglishName": "Dhaka",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "BD",
+      "LocalizedName": "Bangladesh",
+      "EnglishName": "Bangladesh"
+    },
+    "AdministrativeArea": {
+      "ID": "C",
+      "LocalizedName": "Daca",
+      "EnglishName": "Dhaka",
+      "Level": 1,
+      "LocalizedType": "División",
+      "EnglishType": "Division",
+      "CountryID": "BD"
+    },
+    "TimeZone": {
+      "Code": "BDT",
+      "Name": "Asia/Dhaka",
+      "GmtOffset": 6,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 23.71,
+      "Longitude": 90.407,
+      "Elevation": {
+        "Metric": {
+          "Value": 5,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 16,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "FutureRadar",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "113487",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Kinsasa",
+    "EnglishName": "Kinshasa",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "AFR",
+      "LocalizedName": "África",
+      "EnglishName": "Africa"
+    },
+    "Country": {
+      "ID": "CD",
+      "LocalizedName": "República Democrática del Congo",
+      "EnglishName": "Democratic Republic of the Congo"
+    },
+    "AdministrativeArea": {
+      "ID": "KN",
+      "LocalizedName": "Kinsasa",
+      "EnglishName": "Kinshasa",
+      "Level": 1,
+      "LocalizedType": "Ciudad",
+      "EnglishType": "City",
+      "CountryID": "CD"
+    },
+    "TimeZone": {
+      "Code": "WAT",
+      "Name": "Africa/Kinshasa",
+      "GmtOffset": 1,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -4.316,
+      "Longitude": 15.298,
+      "Elevation": {
+        "Metric": {
+          "Value": 180,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 590,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "60449",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Santiago de Chile",
+    "EnglishName": "Santiago",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América del Sur",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "CL",
+      "LocalizedName": "Chile",
+      "EnglishName": "Chile"
+    },
+    "AdministrativeArea": {
+      "ID": "RM",
+      "LocalizedName": "Región Metropolitana de Santiago",
+      "EnglishName": "Región Metropolitana de Santiago",
+      "Level": 1,
+      "LocalizedType": "Región",
+      "EnglishType": "Region",
+      "CountryID": "CL"
+    },
+    "TimeZone": {
+      "Code": "CLST",
+      "Name": "America/Santiago",
+      "GmtOffset": -3,
+      "IsDaylightSaving": true,
+      "NextOffsetChange": "2023-04-02T03:00:00Z"
+    },
+    "GeoPosition": {
+      "Latitude": -33.446,
+      "Longitude": -70.659,
+      "Elevation": {
+        "Metric": {
+          "Value": 522,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 1712,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Santiago",
+        "EnglishName": "Santiago"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "101924",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Pekín",
+    "EnglishName": "Beijing",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "CN",
+      "LocalizedName": "China",
+      "EnglishName": "China"
+    },
+    "AdministrativeArea": {
+      "ID": "BJ",
+      "LocalizedName": "Beijing",
+      "EnglishName": "Beijing",
+      "Level": 1,
+      "LocalizedType": "Municipalidad",
+      "EnglishType": "Municipality",
+      "CountryID": "CN"
+    },
+    "TimeZone": {
+      "Code": "CST",
+      "Name": "Asia/Shanghai",
+      "GmtOffset": 8,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 39.917,
+      "Longitude": 116.407,
+      "Elevation": {
+        "Metric": {
+          "Value": 62,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 203,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQuality",
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "DailyAirQualityForecast",
+      "DailyLocalIndices",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast",
+      "PremiumAirQuality"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "107487",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Bogotá",
+    "EnglishName": "Bogota",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América del Sur",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "CO",
+      "LocalizedName": "Colombia",
+      "EnglishName": "Colombia"
+    },
+    "AdministrativeArea": {
+      "ID": "DC",
+      "LocalizedName": "Distrito Capital de Bogotá",
+      "EnglishName": "Distrito Capital de Bogotá",
+      "Level": 1,
+      "LocalizedType": "Distrito capital",
+      "EnglishType": "Capital District",
+      "CountryID": "CO"
+    },
+    "TimeZone": {
+      "Code": "COT",
+      "Name": "America/Bogota",
+      "GmtOffset": -5,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 4.628,
+      "Longitude": -74.077,
+      "Elevation": {
+        "Metric": {
+          "Value": 2562,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 8406,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Santafé de Bogotá",
+        "EnglishName": "Santafe de Bogota"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "178087",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Berlín",
+    "EnglishName": "Berlin",
+    "PrimaryPostalCode": "10178",
+    "Region": {
+      "ID": "EUR",
+      "LocalizedName": "Europa",
+      "EnglishName": "Europe"
+    },
+    "Country": {
+      "ID": "DE",
+      "LocalizedName": "Alemania",
+      "EnglishName": "Germany"
+    },
+    "AdministrativeArea": {
+      "ID": "BE",
+      "LocalizedName": "Berlín",
+      "EnglishName": "Berlin",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "DE"
+    },
+    "TimeZone": {
+      "Code": "CET",
+      "Name": "Europe/Berlin",
+      "GmtOffset": 1,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": "2023-03-26T01:00:00Z"
+    },
+    "GeoPosition": {
+      "Latitude": 52.518,
+      "Longitude": 13.406,
+      "Elevation": {
+        "Metric": {
+          "Value": 35,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 114,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Berlín",
+        "EnglishName": "Berlin"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "DailyPollenForecast",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "127164",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "El Cairo",
+    "EnglishName": "Cairo",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "AFR",
+      "LocalizedName": "África",
+      "EnglishName": "Africa"
+    },
+    "Country": {
+      "ID": "EG",
+      "LocalizedName": "Egipto",
+      "EnglishName": "Egypt"
+    },
+    "AdministrativeArea": {
+      "ID": "C",
+      "LocalizedName": "El Cairo",
+      "EnglishName": "Cairo",
+      "Level": 1,
+      "LocalizedType": "Gobernación",
+      "EnglishType": "Governorate",
+      "CountryID": "EG"
+    },
+    "TimeZone": {
+      "Code": "EET",
+      "Name": "Africa/Cairo",
+      "GmtOffset": 2,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 30.084,
+      "Longitude": 31.255,
+      "Elevation": {
+        "Metric": {
+          "Value": 20,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 65,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "DailyPollenForecast",
+      "FutureRadar",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "308526",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Madrid",
+    "EnglishName": "Madrid",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "EUR",
+      "LocalizedName": "Europa",
+      "EnglishName": "Europe"
+    },
+    "Country": {
+      "ID": "ES",
+      "LocalizedName": "España",
+      "EnglishName": "Spain"
+    },
+    "AdministrativeArea": {
+      "ID": "MD",
+      "LocalizedName": "Comunidad de Madrid",
+      "EnglishName": "Madrid",
+      "Level": 1,
+      "LocalizedType": "Comunidad autónoma",
+      "EnglishType": "Autonomous Community",
+      "CountryID": "ES"
+    },
+    "TimeZone": {
+      "Code": "CET",
+      "Name": "Europe/Madrid",
+      "GmtOffset": 1,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": "2023-03-26T01:00:00Z"
+    },
+    "GeoPosition": {
+      "Latitude": 40.41,
+      "Longitude": -3.686,
+      "Elevation": {
+        "Metric": {
+          "Value": 639,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 2095,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 3,
+        "LocalizedName": "Madrid",
+        "EnglishName": "Madrid"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "DailyPollenForecast",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "328328",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Londres",
+    "EnglishName": "London",
+    "PrimaryPostalCode": "EC4A 2",
+    "Region": {
+      "ID": "EUR",
+      "LocalizedName": "Europa",
+      "EnglishName": "Europe"
+    },
+    "Country": {
+      "ID": "GB",
+      "LocalizedName": "Reino Unido",
+      "EnglishName": "United Kingdom"
+    },
+    "AdministrativeArea": {
+      "ID": "LND",
+      "LocalizedName": "Londres",
+      "EnglishName": "London",
+      "Level": 1,
+      "LocalizedType": "Distrito",
+      "EnglishType": "London Borough",
+      "CountryID": "GB"
+    },
+    "TimeZone": {
+      "Code": "GMT",
+      "Name": "Europe/London",
+      "GmtOffset": 0,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": "2023-03-26T01:00:00Z"
+    },
+    "GeoPosition": {
+      "Latitude": 51.514,
+      "Longitude": -0.107,
+      "Elevation": {
+        "Metric": {
+          "Value": 18,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 59,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 0,
+        "LocalizedName": "England",
+        "EnglishName": "England"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Castle Baynard",
+        "EnglishName": "Castle Baynard"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "DailyPollenForecast",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "182536",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Atenas",
+    "EnglishName": "Athens",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "EUR",
+      "LocalizedName": "Europa",
+      "EnglishName": "Europe"
+    },
+    "Country": {
+      "ID": "GR",
+      "LocalizedName": "Grecia",
+      "EnglishName": "Greece"
+    },
+    "AdministrativeArea": {
+      "ID": "I",
+      "LocalizedName": "Ática",
+      "EnglishName": "Attica",
+      "Level": 1,
+      "LocalizedType": "Región",
+      "EnglishType": "Region",
+      "CountryID": "GR"
+    },
+    "TimeZone": {
+      "Code": "EET",
+      "Name": "Europe/Athens",
+      "GmtOffset": 2,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": "2023-03-26T01:00:00Z"
+    },
+    "GeoPosition": {
+      "Latitude": 37.984,
+      "Longitude": 23.728,
+      "Elevation": {
+        "Metric": {
+          "Value": 126,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 413,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Athens",
+        "EnglishName": "Athens"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "DailyPollenForecast",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "1123655",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Hong Kong",
+    "EnglishName": "Hong Kong",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "HK",
+      "LocalizedName": "Hong Kong",
+      "EnglishName": "Hong Kong"
+    },
+    "AdministrativeArea": {
+      "ID": "ST",
+      "LocalizedName": "Sha Tin",
+      "EnglishName": "Sha Tin",
+      "Level": 1,
+      "LocalizedType": "Distrito",
+      "EnglishType": "District",
+      "CountryID": "HK"
+    },
+    "TimeZone": {
+      "Code": "CST",
+      "Name": "Asia/Hong_Kong",
+      "GmtOffset": 8,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 22.369,
+      "Longitude": 114.174,
+      "Elevation": {
+        "Metric": {
+          "Value": 35,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 114,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQuality",
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "PremiumAirQuality"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "208971",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Yakarta",
+    "EnglishName": "Jakarta",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "ID",
+      "LocalizedName": "Indonesia",
+      "EnglishName": "Indonesia"
+    },
+    "AdministrativeArea": {
+      "ID": "JK",
+      "LocalizedName": "Yakarta",
+      "EnglishName": "Jakarta",
+      "Level": 1,
+      "LocalizedType": "Distrito capital",
+      "EnglishType": "Capital District",
+      "CountryID": "ID"
+    },
+    "TimeZone": {
+      "Code": "WIT",
+      "Name": "Asia/Jakarta",
+      "GmtOffset": 7,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -6.175,
+      "Longitude": 106.827,
+      "Elevation": {
+        "Metric": {
+          "Value": 11,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 35,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Jakarta Pusat",
+        "EnglishName": "Jakarta Pusat"
+      },
+      {
+        "Level": 3,
+        "LocalizedName": "Gambir",
+        "EnglishName": "Gambir"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "207375",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Bagdad",
+    "EnglishName": "Baghdad",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "MEA",
+      "LocalizedName": "Medio Oriente",
+      "EnglishName": "Middle East"
+    },
+    "Country": {
+      "ID": "IQ",
+      "LocalizedName": "Irak",
+      "EnglishName": "Iraq"
+    },
+    "AdministrativeArea": {
+      "ID": "BG",
+      "LocalizedName": "Gobernación de Bagdad",
+      "EnglishName": "Baghdad",
+      "Level": 1,
+      "LocalizedType": "Gobernación",
+      "EnglishType": "Governorate",
+      "CountryID": "IQ"
+    },
+    "TimeZone": {
+      "Code": "AST",
+      "Name": "Asia/Baghdad",
+      "GmtOffset": 3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 33.328,
+      "Longitude": 44.386,
+      "Elevation": {
+        "Metric": {
+          "Value": 35,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 114,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "DailyPollenForecast",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "226396",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Tokio",
+    "EnglishName": "Tokyo",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "JP",
+      "LocalizedName": "Japón",
+      "EnglishName": "Japan"
+    },
+    "AdministrativeArea": {
+      "ID": "13",
+      "LocalizedName": "Tokio",
+      "EnglishName": "Tokyo",
+      "Level": 1,
+      "LocalizedType": "Prefectura",
+      "EnglishType": "Prefecture",
+      "CountryID": "JP"
+    },
+    "TimeZone": {
+      "Code": "JST",
+      "Name": "Asia/Tokyo",
+      "GmtOffset": 9,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 35.683,
+      "Longitude": 139.809,
+      "Elevation": {
+        "Metric": {
+          "Value": 1,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 3,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "226081",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Seúl",
+    "EnglishName": "Seoul",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "KR",
+      "LocalizedName": "Corea del Sur",
+      "EnglishName": "South Korea"
+    },
+    "AdministrativeArea": {
+      "ID": "11",
+      "LocalizedName": "Seúl",
+      "EnglishName": "Seoul",
+      "Level": 1,
+      "LocalizedType": "Ciudad especial",
+      "EnglishType": "Special City",
+      "CountryID": "KR"
+    },
+    "TimeZone": {
+      "Code": "KST",
+      "Name": "Asia/Seoul",
+      "GmtOffset": 9,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 37.537,
+      "Longitude": 126.97,
+      "Elevation": {
+        "Metric": {
+          "Value": 19,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 62,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQuality",
+      "AirQuality-Regional",
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "DailyLocalIndices",
+      "ForecastConfidence",
+      "FutureRadar",
+      "HourlyLocalIndices",
+      "MinuteCast",
+      "PremiumAirQuality",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "242560",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Ciudad de México",
+    "EnglishName": "Mexico City",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "NAM",
+      "LocalizedName": "América del Norte",
+      "EnglishName": "North America"
+    },
+    "Country": {
+      "ID": "MX",
+      "LocalizedName": "México",
+      "EnglishName": "Mexico"
+    },
+    "AdministrativeArea": {
+      "ID": "CMX",
+      "LocalizedName": "Ciudad de México",
+      "EnglishName": "México City",
+      "Level": 1,
+      "LocalizedType": "Distrito federal",
+      "EnglishType": "Federal District",
+      "CountryID": "MX"
+    },
+    "TimeZone": {
+      "Code": "CST",
+      "Name": "America/Mexico_City",
+      "GmtOffset": -6,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 19.433,
+      "Longitude": -99.133,
+      "Elevation": {
+        "Metric": {
+          "Value": 2242,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 7357,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "264120",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Lima",
+    "EnglishName": "Lima",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América del Sur",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "PE",
+      "LocalizedName": "Perú",
+      "EnglishName": "Peru"
+    },
+    "AdministrativeArea": {
+      "ID": "LMA",
+      "LocalizedName": "Lima",
+      "EnglishName": "Lima",
+      "Level": 1,
+      "LocalizedType": "Municipalidad",
+      "EnglishType": "Municipality",
+      "CountryID": "PE"
+    },
+    "TimeZone": {
+      "Code": "PET",
+      "Name": "America/Lima",
+      "GmtOffset": -5,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -12.082,
+      "Longitude": -77.045,
+      "Elevation": {
+        "Metric": {
+          "Value": 105,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 344,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "294021",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Moscú",
+    "EnglishName": "Moscow",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "RU",
+      "LocalizedName": "Rusia",
+      "EnglishName": "Russia"
+    },
+    "AdministrativeArea": {
+      "ID": "MOW",
+      "LocalizedName": "Moscú",
+      "EnglishName": "Moscow",
+      "Level": 1,
+      "LocalizedType": "Ciudad federal",
+      "EnglishType": "Federal City",
+      "CountryID": "RU"
+    },
+    "TimeZone": {
+      "Code": "MSK",
+      "Name": "Europe/Moscow",
+      "GmtOffset": 3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 55.752,
+      "Longitude": 37.619,
+      "Elevation": {
+        "Metric": {
+          "Value": 155,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 508,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Tsentralny",
+        "EnglishName": "Tsentralny"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "DailyPollenForecast",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "297030",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Riad",
+    "EnglishName": "Riyadh",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "MEA",
+      "LocalizedName": "Medio Oriente",
+      "EnglishName": "Middle East"
+    },
+    "Country": {
+      "ID": "SA",
+      "LocalizedName": "Arabia Saudita",
+      "EnglishName": "Saudi Arabia"
+    },
+    "AdministrativeArea": {
+      "ID": "01",
+      "LocalizedName": "Provincia de Riad",
+      "EnglishName": "Riyadh",
+      "Level": 1,
+      "LocalizedType": "Región",
+      "EnglishType": "Region",
+      "CountryID": "SA"
+    },
+    "TimeZone": {
+      "Code": "AST",
+      "Name": "Asia/Riyadh",
+      "GmtOffset": 3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 24.64,
+      "Longitude": 46.753,
+      "Elevation": {
+        "Metric": {
+          "Value": 598,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 1961,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "FutureRadar",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "300597",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Singapur",
+    "EnglishName": "Singapore",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "SG",
+      "LocalizedName": "Singapur",
+      "EnglishName": "Singapore"
+    },
+    "AdministrativeArea": {
+      "ID": "01",
+      "LocalizedName": "",
+      "EnglishName": "Central Singapore",
+      "Level": 1,
+      "LocalizedType": "Distrito",
+      "EnglishType": "District",
+      "CountryID": "SG"
+    },
+    "TimeZone": {
+      "Code": "SGT",
+      "Name": "Asia/Singapore",
+      "GmtOffset": 8,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 1.311,
+      "Longitude": 103.843,
+      "Elevation": {
+        "Metric": {
+          "Value": 13,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 42,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "FutureRadar",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "318849",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Bangkok",
+    "EnglishName": "Bangkok",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "TH",
+      "LocalizedName": "Tailandia",
+      "EnglishName": "Thailand"
+    },
+    "AdministrativeArea": {
+      "ID": "10",
+      "LocalizedName": "Bangkok",
+      "EnglishName": "Bangkok",
+      "Level": 1,
+      "LocalizedType": "Provincia",
+      "EnglishType": "Province",
+      "CountryID": "TH"
+    },
+    "TimeZone": {
+      "Code": "ICT",
+      "Name": "Asia/Bangkok",
+      "GmtOffset": 7,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 13.731,
+      "Longitude": 100.521,
+      "Elevation": {
+        "Metric": {
+          "Value": 2,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 6,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "353412",
+    "Type": "City",
+    "Rank": 10,
+    "LocalizedName": "Hanói",
+    "EnglishName": "Hanoi",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "VN",
+      "LocalizedName": "Vietnam",
+      "EnglishName": "Vietnam"
+    },
+    "AdministrativeArea": {
+      "ID": "HN",
+      "LocalizedName": "Hanói",
+      "EnglishName": "Hanoi",
+      "Level": 1,
+      "LocalizedType": "Municipalidad",
+      "EnglishType": "Municipality",
+      "CountryID": "VN"
+    },
+    "TimeZone": {
+      "Code": "ICT",
+      "Name": "Asia/Ho_Chi_Minh",
+      "GmtOffset": 7,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 20.999,
+      "Longitude": 105.7,
+      "Elevation": {
+        "Metric": {
+          "Value": 19,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 62,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "FutureRadar",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "22889",
+    "Type": "City",
+    "Rank": 11,
+    "LocalizedName": "Sídney",
+    "EnglishName": "Sydney",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "OCN",
+      "LocalizedName": "Oceanía",
+      "EnglishName": "Oceania"
+    },
+    "Country": {
+      "ID": "AU",
+      "LocalizedName": "Australia",
+      "EnglishName": "Australia"
+    },
+    "AdministrativeArea": {
+      "ID": "NSW",
+      "LocalizedName": "Nueva Gales del Sur",
+      "EnglishName": "New South Wales",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "AU"
+    },
+    "TimeZone": {
+      "Code": "AEDT",
+      "Name": "Australia/Sydney",
+      "GmtOffset": 11,
+      "IsDaylightSaving": true,
+      "NextOffsetChange": "2023-04-01T16:00:00Z"
+    },
+    "GeoPosition": {
+      "Latitude": -33.87,
+      "Longitude": 151.209,
+      "Elevation": {
+        "Metric": {
+          "Value": 1,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 3,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "106577",
+    "Type": "City",
+    "Rank": 11,
+    "LocalizedName": "Shanghái",
+    "EnglishName": "Shanghai",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "CN",
+      "LocalizedName": "China",
+      "EnglishName": "China"
+    },
+    "AdministrativeArea": {
+      "ID": "SH",
+      "LocalizedName": "Shanghái",
+      "EnglishName": "Shanghai",
+      "Level": 1,
+      "LocalizedType": "Municipalidad",
+      "EnglishType": "Municipality",
+      "CountryID": "CN"
+    },
+    "TimeZone": {
+      "Code": "CST",
+      "Name": "Asia/Shanghai",
+      "GmtOffset": 8,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 31.232,
+      "Longitude": 121.444,
+      "Elevation": {
+        "Metric": {
+          "Value": 5,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 16,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQuality",
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "DailyAirQualityForecast",
+      "DailyLocalIndices",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast",
+      "PremiumAirQuality"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "202396",
+    "Type": "City",
+    "Rank": 11,
+    "LocalizedName": "Delhi",
+    "EnglishName": "Delhi",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "IN",
+      "LocalizedName": "India",
+      "EnglishName": "India"
+    },
+    "AdministrativeArea": {
+      "ID": "DL",
+      "LocalizedName": "Delhi",
+      "EnglishName": "Delhi",
+      "Level": 1,
+      "LocalizedType": "Territorio de la Unión",
+      "EnglishType": "Union Territory",
+      "CountryID": "IN"
+    },
+    "TimeZone": {
+      "Code": "IST",
+      "Name": "Asia/Kolkata",
+      "GmtOffset": 5.5,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 28.643,
+      "Longitude": 77.118,
+      "Elevation": {
+        "Metric": {
+          "Value": 215,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 705,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Distrito de Delhi occidental",
+        "EnglishName": "West"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast",
+      "PremiumAirQuality"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "204108",
+    "Type": "City",
+    "Rank": 11,
+    "LocalizedName": "Bengaluru",
+    "EnglishName": "Bengaluru",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "IN",
+      "LocalizedName": "India",
+      "EnglishName": "India"
+    },
+    "AdministrativeArea": {
+      "ID": "KA",
+      "LocalizedName": "Karnataka",
+      "EnglishName": "Karnataka",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "IN"
+    },
+    "TimeZone": {
+      "Code": "IST",
+      "Name": "Asia/Kolkata",
+      "GmtOffset": 5.5,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 12.991,
+      "Longitude": 77.579,
+      "Elevation": {
+        "Metric": {
+          "Value": 913,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 2997,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Distrito de Bangalore",
+        "EnglishName": "Bangalore"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "PremiumAirQuality"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "204842",
+    "Type": "City",
+    "Rank": 11,
+    "LocalizedName": "Bombay",
+    "EnglishName": "Mumbai",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "IN",
+      "LocalizedName": "India",
+      "EnglishName": "India"
+    },
+    "AdministrativeArea": {
+      "ID": "MH",
+      "LocalizedName": "Maharashtra",
+      "EnglishName": "Maharashtra",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "IN"
+    },
+    "TimeZone": {
+      "Code": "IST",
+      "Name": "Asia/Kolkata",
+      "GmtOffset": 5.5,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 19.143,
+      "Longitude": 72.878,
+      "Elevation": {
+        "Metric": {
+          "Value": 47,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 154,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Distrito de Mumbai suburbano",
+        "EnglishName": "Mumbai Suburban"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "PremiumAirQuality"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "206690",
+    "Type": "City",
+    "Rank": 11,
+    "LocalizedName": "Calcuta",
+    "EnglishName": "Kolkata",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "IN",
+      "LocalizedName": "India",
+      "EnglishName": "India"
+    },
+    "AdministrativeArea": {
+      "ID": "WB",
+      "LocalizedName": "Bengala Occidental",
+      "EnglishName": "West Bengal",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "IN"
+    },
+    "TimeZone": {
+      "Code": "IST",
+      "Name": "Asia/Kolkata",
+      "GmtOffset": 5.5,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 22.526,
+      "Longitude": 88.353,
+      "Elevation": {
+        "Metric": {
+          "Value": 16,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 52,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Distrito de Calcuta",
+        "EnglishName": "Kolkata"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "PremiumAirQuality"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "261158",
+    "Type": "City",
+    "Rank": 11,
+    "LocalizedName": "Karachi",
+    "EnglishName": "Karachi",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "PK",
+      "LocalizedName": "Pakistán",
+      "EnglishName": "Pakistan"
+    },
+    "AdministrativeArea": {
+      "ID": "SD",
+      "LocalizedName": "Sind",
+      "EnglishName": "Sindh",
+      "Level": 1,
+      "LocalizedType": "Provincia",
+      "EnglishType": "Province",
+      "CountryID": "PK"
+    },
+    "TimeZone": {
+      "Code": "PKT",
+      "Name": "Asia/Karachi",
+      "GmtOffset": 5,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 24.89,
+      "Longitude": 67.029,
+      "Elevation": {
+        "Metric": {
+          "Value": 11,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 36,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Karachi Central",
+        "EnglishName": "Karachi Central"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "FutureRadar",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "318251",
+    "Type": "City",
+    "Rank": 11,
+    "LocalizedName": "Estambul",
+    "EnglishName": "Istanbul",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "MEA",
+      "LocalizedName": "Medio Oriente",
+      "EnglishName": "Middle East"
+    },
+    "Country": {
+      "ID": "TR",
+      "LocalizedName": "Turquía",
+      "EnglishName": "Türkiye"
+    },
+    "AdministrativeArea": {
+      "ID": "34",
+      "LocalizedName": "Estambul",
+      "EnglishName": "Istanbul",
+      "Level": 1,
+      "LocalizedType": "Provincia",
+      "EnglishType": "Province",
+      "CountryID": "TR"
+    },
+    "TimeZone": {
+      "Code": "TRT",
+      "Name": "Europe/Istanbul",
+      "GmtOffset": 3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 41.011,
+      "Longitude": 28.958,
+      "Elevation": {
+        "Metric": {
+          "Value": 48,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 157,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Fatih",
+        "EnglishName": "Fatih"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "DailyPollenForecast",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "347625",
+    "Type": "City",
+    "Rank": 15,
+    "LocalizedName": "Los Ángeles",
+    "EnglishName": "Los Angeles",
+    "PrimaryPostalCode": "90012",
+    "Region": {
+      "ID": "NAM",
+      "LocalizedName": "América del Norte",
+      "EnglishName": "North America"
+    },
+    "Country": {
+      "ID": "US",
+      "LocalizedName": "Estados Unidos",
+      "EnglishName": "United States"
+    },
+    "AdministrativeArea": {
+      "ID": "CA",
+      "LocalizedName": "California",
+      "EnglishName": "California",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "US"
+    },
+    "TimeZone": {
+      "Code": "PDT",
+      "Name": "America/Los_Angeles",
+      "GmtOffset": -7,
+      "IsDaylightSaving": true,
+      "NextOffsetChange": "2022-11-06T09:00:00Z"
+    },
+    "GeoPosition": {
+      "Latitude": 34.052,
+      "Longitude": -118.244,
+      "Elevation": {
+        "Metric": {
+          "Value": 121,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 396,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Condado de Los Ángeles",
+        "EnglishName": "Los Angeles"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "DailyAirQualityForecast",
+      "DailyPollenForecast",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "349727",
+    "Type": "City",
+    "Rank": 15,
+    "LocalizedName": "Nueva York",
+    "EnglishName": "New York",
+    "PrimaryPostalCode": "10021",
+    "Region": {
+      "ID": "NAM",
+      "LocalizedName": "América del Norte",
+      "EnglishName": "North America"
+    },
+    "Country": {
+      "ID": "US",
+      "LocalizedName": "Estados Unidos",
+      "EnglishName": "United States"
+    },
+    "AdministrativeArea": {
+      "ID": "NY",
+      "LocalizedName": "Nueva York",
+      "EnglishName": "New York",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "US"
+    },
+    "TimeZone": {
+      "Code": "EDT",
+      "Name": "America/New_York",
+      "GmtOffset": -4,
+      "IsDaylightSaving": true,
+      "NextOffsetChange": "2022-11-06T06:00:00Z"
+    },
+    "GeoPosition": {
+      "Latitude": 40.779,
+      "Longitude": -73.969,
+      "Elevation": {
+        "Metric": {
+          "Value": 8,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 26,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Nueva York",
+        "EnglishName": "New York"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "DailyAirQualityForecast",
+      "DailyPollenForecast",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "4361",
+    "Type": "City",
+    "Rank": 20,
+    "LocalizedName": "Kabul",
+    "EnglishName": "Kabul",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "AF",
+      "LocalizedName": "Afganistán",
+      "EnglishName": "Afghanistan"
+    },
+    "AdministrativeArea": {
+      "ID": "KAB",
+      "LocalizedName": "Provincia de Kabul",
+      "EnglishName": "Kabul",
+      "Level": 1,
+      "LocalizedType": "Provincia",
+      "EnglishType": "Province",
+      "CountryID": "AF"
+    },
+    "TimeZone": {
+      "Code": "AFT",
+      "Name": "Asia/Kabul",
+      "GmtOffset": 4.5,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 34.531,
+      "Longitude": 69.137,
+      "Elevation": {
+        "Metric": {
+          "Value": 1838,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 6031,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Kabul",
+        "EnglishName": "Kabul"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "7894",
+    "Type": "City",
+    "Rank": 20,
+    "LocalizedName": "Buenos Aires",
+    "EnglishName": "Buenos Aires",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América del Sur",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "AR",
+      "LocalizedName": "Argentina",
+      "EnglishName": "Argentina"
+    },
+    "AdministrativeArea": {
+      "ID": "C",
+      "LocalizedName": "Ciudad Autónoma de Buenos Aires",
+      "EnglishName": "Buenos Aires - Capital Federal",
+      "Level": 1,
+      "LocalizedType": "Cuidad autónoma",
+      "EnglishType": "Autonomous City",
+      "CountryID": "AR"
+    },
+    "TimeZone": {
+      "Code": "ART",
+      "Name": "America/Argentina/Buenos_Aires",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -34.608,
+      "Longitude": -58.437,
+      "Elevation": {
+        "Metric": {
+          "Value": 19,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 62,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "5",
+        "EnglishName": "5"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "122438",
+    "Type": "City",
+    "Rank": 20,
+    "LocalizedName": "La Habana",
+    "EnglishName": "Havana",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "CAC",
+      "LocalizedName": "América Central",
+      "EnglishName": "Central America"
+    },
+    "Country": {
+      "ID": "CU",
+      "LocalizedName": "Cuba",
+      "EnglishName": "Cuba"
+    },
+    "AdministrativeArea": {
+      "ID": "03",
+      "LocalizedName": "La Habana",
+      "EnglishName": "La Habana",
+      "Level": 1,
+      "LocalizedType": "Provincia",
+      "EnglishType": "Province",
+      "CountryID": "CU"
+    },
+    "TimeZone": {
+      "Code": "CDT",
+      "Name": "America/Havana",
+      "GmtOffset": -4,
+      "IsDaylightSaving": true,
+      "NextOffsetChange": "2022-11-06T05:00:00Z"
+    },
+    "GeoPosition": {
+      "Latitude": 23.117,
+      "Longitude": -82.389,
+      "Elevation": {
+        "Metric": {
+          "Value": 35,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 114,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Plaza de la Revolucion",
+        "EnglishName": "Plaza de la Revolucion"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "623",
+    "Type": "City",
+    "Rank": 20,
+    "LocalizedName": "París",
+    "EnglishName": "Paris",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "EUR",
+      "LocalizedName": "Europa",
+      "EnglishName": "Europe"
+    },
+    "Country": {
+      "ID": "FR",
+      "LocalizedName": "Francia",
+      "EnglishName": "France"
+    },
+    "AdministrativeArea": {
+      "ID": "75",
+      "LocalizedName": "París",
+      "EnglishName": "Ville de Paris",
+      "Level": 1,
+      "LocalizedType": "Departamento",
+      "EnglishType": "Department",
+      "CountryID": "FR"
+    },
+    "TimeZone": {
+      "Code": "CET",
+      "Name": "Europe/Paris",
+      "GmtOffset": 1,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": "2023-03-26T01:00:00Z"
+    },
+    "GeoPosition": {
+      "Latitude": 48.857,
+      "Longitude": 2.351,
+      "Elevation": {
+        "Metric": {
+          "Value": 35,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 114,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "I Distrito de París",
+        "EnglishName": "Paris"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "DailyPollenForecast",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "210841",
+    "Type": "City",
+    "Rank": 20,
+    "LocalizedName": "Teherán",
+    "EnglishName": "Tehran",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "MEA",
+      "LocalizedName": "Medio Oriente",
+      "EnglishName": "Middle East"
+    },
+    "Country": {
+      "ID": "IR",
+      "LocalizedName": "Irán",
+      "EnglishName": "Iran"
+    },
+    "AdministrativeArea": {
+      "ID": "07",
+      "LocalizedName": "Provincia de Teherán",
+      "EnglishName": "Tehran",
+      "Level": 1,
+      "LocalizedType": "Provincia",
+      "EnglishType": "Province",
+      "CountryID": "IR"
+    },
+    "TimeZone": {
+      "Code": "IRST",
+      "Name": "Asia/Tehran",
+      "GmtOffset": 3.5,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 35.701,
+      "Longitude": 51.407,
+      "Elevation": {
+        "Metric": {
+          "Value": 1227,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 4027,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "264885",
+    "Type": "City",
+    "Rank": 20,
+    "LocalizedName": "Manila",
+    "EnglishName": "Manila",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "PH",
+      "LocalizedName": "Filipinas",
+      "EnglishName": "Philippines"
+    },
+    "AdministrativeArea": {
+      "ID": "MNL",
+      "LocalizedName": "Manila",
+      "EnglishName": "Metropolitan Manila",
+      "Level": 1,
+      "LocalizedType": "Región",
+      "EnglishType": "Region",
+      "CountryID": "PH"
+    },
+    "TimeZone": {
+      "Code": "PHT",
+      "Name": "Asia/Manila",
+      "GmtOffset": 8,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 14.59,
+      "Longitude": 120.982,
+      "Elevation": {
+        "Metric": {
+          "Value": 2,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 8,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "298198",
+    "Type": "City",
+    "Rank": 20,
+    "LocalizedName": "Belgrado",
+    "EnglishName": "Belgrade",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "EUR",
+      "LocalizedName": "Europa",
+      "EnglishName": "Europe"
+    },
+    "Country": {
+      "ID": "RS",
+      "LocalizedName": "Serbia",
+      "EnglishName": "Serbia"
+    },
+    "AdministrativeArea": {
+      "ID": "00",
+      "LocalizedName": "Belgrado",
+      "EnglishName": "Belgrade",
+      "Level": 1,
+      "LocalizedType": "Distrito",
+      "EnglishType": "District",
+      "CountryID": "RS"
+    },
+    "TimeZone": {
+      "Code": "CET",
+      "Name": "Europe/Belgrade",
+      "GmtOffset": 1,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": "2023-03-26T01:00:00Z"
+    },
+    "GeoPosition": {
+      "Latitude": 44.817,
+      "Longitude": 20.464,
+      "Elevation": {
+        "Metric": {
+          "Value": 99,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 324,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Stari",
+        "EnglishName": "Stari"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "DailyPollenForecast",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "297442",
+    "Type": "City",
+    "Rank": 20,
+    "LocalizedName": "Dakar",
+    "EnglishName": "Dakar",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "AFR",
+      "LocalizedName": "África",
+      "EnglishName": "Africa"
+    },
+    "Country": {
+      "ID": "SN",
+      "LocalizedName": "Senegal",
+      "EnglishName": "Senegal"
+    },
+    "AdministrativeArea": {
+      "ID": "DK",
+      "LocalizedName": "Región de Dakar",
+      "EnglishName": "Dakar",
+      "Level": 1,
+      "LocalizedType": "Región",
+      "EnglishType": "Region",
+      "CountryID": "SN"
+    },
+    "TimeZone": {
+      "Code": "GMT",
+      "Name": "Africa/Dakar",
+      "GmtOffset": 0,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 14.687,
+      "Longitude": -17.452,
+      "Elevation": {
+        "Metric": {
+          "Value": 11,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 36,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "315078",
+    "Type": "City",
+    "Rank": 20,
+    "LocalizedName": "Taipéi",
+    "EnglishName": "Taipei City",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "TW",
+      "LocalizedName": "Taiwán",
+      "EnglishName": "Taiwan"
+    },
+    "AdministrativeArea": {
+      "ID": "TPE",
+      "LocalizedName": "Taipéi",
+      "EnglishName": "Taipei City",
+      "Level": 1,
+      "LocalizedType": "Municipalidad especial",
+      "EnglishType": "Special Municipality",
+      "CountryID": "TW"
+    },
+    "TimeZone": {
+      "Code": "CST",
+      "Name": "Asia/Taipei",
+      "GmtOffset": 8,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 25.048,
+      "Longitude": 121.514,
+      "Elevation": {
+        "Metric": {
+          "Value": 8,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 26,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQuality",
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "PremiumAirQuality"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "306633",
+    "Type": "City",
+    "Rank": 20,
+    "LocalizedName": "Ciudad del Cabo",
+    "EnglishName": "Cape Town",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "AFR",
+      "LocalizedName": "África",
+      "EnglishName": "Africa"
+    },
+    "Country": {
+      "ID": "ZA",
+      "LocalizedName": "Sudáfrica",
+      "EnglishName": "South Africa"
+    },
+    "AdministrativeArea": {
+      "ID": "WC",
+      "LocalizedName": "Provincia Occidental del Cabo",
+      "EnglishName": "Western Cape",
+      "Level": 1,
+      "LocalizedType": "Provincia",
+      "EnglishType": "Province",
+      "CountryID": "ZA"
+    },
+    "TimeZone": {
+      "Code": "SAST",
+      "Name": "Africa/Johannesburg",
+      "GmtOffset": 2,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -33.979,
+      "Longitude": 18.482,
+      "Elevation": {
+        "Metric": {
+          "Value": 15,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 49,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "City Of Cape Town",
+        "EnglishName": "City Of Cape Town"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "45881",
+    "Type": "City",
+    "Rank": 21,
+    "LocalizedName": "São Paulo",
+    "EnglishName": "São Paulo",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "SAM",
+      "LocalizedName": "América del Sur",
+      "EnglishName": "South America"
+    },
+    "Country": {
+      "ID": "BR",
+      "LocalizedName": "Brasil",
+      "EnglishName": "Brazil"
+    },
+    "AdministrativeArea": {
+      "ID": "SP",
+      "LocalizedName": "Estado de São Paulo",
+      "EnglishName": "São Paulo",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "BR"
+    },
+    "TimeZone": {
+      "Code": "BRT",
+      "Name": "America/Sao_Paulo",
+      "GmtOffset": -3,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": -23.567,
+      "Longitude": -46.57,
+      "Elevation": {
+        "Metric": {
+          "Value": 662,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 2171,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "São Paulo",
+        "EnglishName": "São Paulo"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "55488",
+    "Type": "City",
+    "Rank": 21,
+    "LocalizedName": "Toronto",
+    "EnglishName": "Toronto",
+    "PrimaryPostalCode": "M5H",
+    "Region": {
+      "ID": "NAM",
+      "LocalizedName": "América del Norte",
+      "EnglishName": "North America"
+    },
+    "Country": {
+      "ID": "CA",
+      "LocalizedName": "Canadá",
+      "EnglishName": "Canada"
+    },
+    "AdministrativeArea": {
+      "ID": "ON",
+      "LocalizedName": "Ontario",
+      "EnglishName": "Ontario",
+      "Level": 1,
+      "LocalizedType": "Provincia",
+      "EnglishType": "Province",
+      "CountryID": "CA"
+    },
+    "TimeZone": {
+      "Code": "EDT",
+      "Name": "America/Toronto",
+      "GmtOffset": -4,
+      "IsDaylightSaving": true,
+      "NextOffsetChange": "2022-11-06T06:00:00Z"
+    },
+    "GeoPosition": {
+      "Latitude": 43.649,
+      "Longitude": -79.38,
+      "Elevation": {
+        "Metric": {
+          "Value": 81,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 265,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Toronto",
+        "EnglishName": "Toronto"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "225007",
+    "Type": "City",
+    "Rank": 21,
+    "LocalizedName": "Osaka",
+    "EnglishName": "Osaka-shi",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ASI",
+      "LocalizedName": "Asia",
+      "EnglishName": "Asia"
+    },
+    "Country": {
+      "ID": "JP",
+      "LocalizedName": "Japón",
+      "EnglishName": "Japan"
+    },
+    "AdministrativeArea": {
+      "ID": "27",
+      "LocalizedName": "Prefectura de Osaka",
+      "EnglishName": "Osaka",
+      "Level": 1,
+      "LocalizedType": "Prefectura",
+      "EnglishType": "Prefecture",
+      "CountryID": "JP"
+    },
+    "TimeZone": {
+      "Code": "JST",
+      "Name": "Asia/Tokyo",
+      "GmtOffset": 9,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 34.667,
+      "Longitude": 135.5,
+      "Elevation": {
+        "Metric": {
+          "Value": 4,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 13,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "213225",
+    "Type": "City",
+    "Rank": 30,
+    "LocalizedName": "Jerusalén",
+    "EnglishName": "Jerusalem",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "MEA",
+      "LocalizedName": "Medio Oriente",
+      "EnglishName": "Middle East"
+    },
+    "Country": {
+      "ID": "IL",
+      "LocalizedName": "Israel",
+      "EnglishName": "Israel"
+    },
+    "AdministrativeArea": {
+      "ID": "JM",
+      "LocalizedName": "Distrito de Jerusalén",
+      "EnglishName": "Jerusalem",
+      "Level": 1,
+      "LocalizedType": "Distrito",
+      "EnglishType": "District",
+      "CountryID": "IL"
+    },
+    "TimeZone": {
+      "Code": "IST",
+      "Name": "Asia/Jerusalem",
+      "GmtOffset": 2,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": "2023-03-24T00:00:00Z"
+    },
+    "GeoPosition": {
+      "Latitude": 31.774,
+      "Longitude": 35.225,
+      "Elevation": {
+        "Metric": {
+          "Value": 804,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 2637,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "DailyPollenForecast",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "249758",
+    "Type": "City",
+    "Rank": 30,
+    "LocalizedName": "Ámsterdam",
+    "EnglishName": "Amsterdam",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "EUR",
+      "LocalizedName": "Europa",
+      "EnglishName": "Europe"
+    },
+    "Country": {
+      "ID": "NL",
+      "LocalizedName": "Holanda",
+      "EnglishName": "Netherlands"
+    },
+    "AdministrativeArea": {
+      "ID": "NH",
+      "LocalizedName": "Holanda Septentrional",
+      "EnglishName": "North Holland",
+      "Level": 1,
+      "LocalizedType": "Provincia",
+      "EnglishType": "Province",
+      "CountryID": "NL"
+    },
+    "TimeZone": {
+      "Code": "CET",
+      "Name": "Europe/Amsterdam",
+      "GmtOffset": 1,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": "2023-03-26T01:00:00Z"
+    },
+    "GeoPosition": {
+      "Latitude": 52.372,
+      "Longitude": 4.9,
+      "Elevation": {
+        "Metric": {
+          "Value": -1,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": -3,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "DailyPollenForecast",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "314929",
+    "Type": "City",
+    "Rank": 30,
+    "LocalizedName": "Estocolmo",
+    "EnglishName": "Stockholm",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "EUR",
+      "LocalizedName": "Europa",
+      "EnglishName": "Europe"
+    },
+    "Country": {
+      "ID": "SE",
+      "LocalizedName": "Suecia",
+      "EnglishName": "Sweden"
+    },
+    "AdministrativeArea": {
+      "ID": "AB",
+      "LocalizedName": "Estocolmo",
+      "EnglishName": "Stockholm",
+      "Level": 1,
+      "LocalizedType": "Condado",
+      "EnglishType": "County",
+      "CountryID": "SE"
+    },
+    "TimeZone": {
+      "Code": "CET",
+      "Name": "Europe/Stockholm",
+      "GmtOffset": 1,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": "2023-03-26T01:00:00Z"
+    },
+    "GeoPosition": {
+      "Latitude": 59.314,
+      "Longitude": 18.069,
+      "Elevation": {
+        "Metric": {
+          "Value": 39,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 127,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "DailyPollenForecast",
+      "ForecastConfidence",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "348211",
+    "Type": "City",
+    "Rank": 31,
+    "LocalizedName": "Urban Honolulu",
+    "EnglishName": "Honolulu",
+    "PrimaryPostalCode": "96817",
+    "Region": {
+      "ID": "NAM",
+      "LocalizedName": "América del Norte",
+      "EnglishName": "North America"
+    },
+    "Country": {
+      "ID": "US",
+      "LocalizedName": "Estados Unidos",
+      "EnglishName": "United States"
+    },
+    "AdministrativeArea": {
+      "ID": "HI",
+      "LocalizedName": "Hawai",
+      "EnglishName": "Hawaii",
+      "Level": 1,
+      "LocalizedType": "Estado",
+      "EnglishType": "State",
+      "CountryID": "US"
+    },
+    "TimeZone": {
+      "Code": "HST",
+      "Name": "Pacific/Honolulu",
+      "GmtOffset": -10,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 21.326,
+      "Longitude": -157.845,
+      "Elevation": {
+        "Metric": {
+          "Value": 112,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 367,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [
+      {
+        "Level": 2,
+        "LocalizedName": "Condado de Honolulu",
+        "EnglishName": "Honolulu"
+      }
+    ],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "Radar"
+    ]
+  },
+  {
+    "Version": 1,
+    "Key": "190390",
+    "Type": "City",
+    "Rank": 40,
+    "LocalizedName": "Reikiavik",
+    "EnglishName": "Reykjavik",
+    "PrimaryPostalCode": "",
+    "Region": {
+      "ID": "ARC",
+      "LocalizedName": "Ártico",
+      "EnglishName": "Arctic"
+    },
+    "Country": {
+      "ID": "IS",
+      "LocalizedName": "Islandia",
+      "EnglishName": "Iceland"
+    },
+    "AdministrativeArea": {
+      "ID": "1",
+      "LocalizedName": "Höfuðborgarsvæði",
+      "EnglishName": "Greater Reykjavik",
+      "Level": 1,
+      "LocalizedType": "Región",
+      "EnglishType": "Region",
+      "CountryID": "IS"
+    },
+    "TimeZone": {
+      "Code": "GMT",
+      "Name": "Atlantic/Reykjavik",
+      "GmtOffset": 0,
+      "IsDaylightSaving": false,
+      "NextOffsetChange": null
+    },
+    "GeoPosition": {
+      "Latitude": 64.137,
+      "Longitude": -21.902,
+      "Elevation": {
+        "Metric": {
+          "Value": 36,
+          "Unit": "m",
+          "UnitType": 5
+        },
+        "Imperial": {
+          "Value": 118,
+          "Unit": "ft",
+          "UnitType": 0
+        }
+      }
+    },
+    "IsAlias": false,
+    "SupplementalAdminAreas": [],
+    "DataSets": [
+      "AirQualityCurrentConditions",
+      "AirQualityForecasts",
+      "Alerts",
+      "DailyPollenForecast",
+      "FutureRadar",
+      "MinuteCast",
+      "Radar"
+    ]
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "ID": "DZ",
+    "LocalizedName": "Algeria",
+    "EnglishName": "Algeria"
+  },
+  {
+    "ID": "AO",
+    "LocalizedName": "Angola",
+    "EnglishName": "Angola"
+  },
+  {
+    "ID": "BJ",
+    "LocalizedName": "Benín",
+    "EnglishName": "Benin"
+  },
+  {
+    "ID": "BW",
+    "LocalizedName": "Botsuana",
+    "EnglishName": "Botswana"
+  },
+  {
+    "ID": "BF",
+    "LocalizedName": "Burkina Faso",
+    "EnglishName": "Burkina Faso"
+  },
+  {
+    "ID": "BI",
+    "LocalizedName": "Burundi",
+    "EnglishName": "Burundi"
+  },
+  {
+    "ID": "CV",
+    "LocalizedName": "Cabo Verde",
+    "EnglishName": "Cape Verde"
+  },
+  {
+    "ID": "CM",
+    "LocalizedName": "Camerún",
+    "EnglishName": "Cameroon"
+  },
+  {
+    "ID": "TD",
+    "LocalizedName": "Chad",
+    "EnglishName": "Chad"
+  },
+  {
+    "ID": "KM",
+    "LocalizedName": "Comoras",
+    "EnglishName": "Comoros"
+  },
+  {
+    "ID": "CI",
+    "LocalizedName": "Costa de Marfil",
+    "EnglishName": "Cote D'Ivoire"
+  },
+  {
+    "ID": "EG",
+    "LocalizedName": "Egipto",
+    "EnglishName": "Egypt"
+  },
+  {
+    "ID": "ER",
+    "LocalizedName": "Eritrea",
+    "EnglishName": "Eritrea"
+  },
+  {
+    "ID": "SZ",
+    "LocalizedName": "Esuatini",
+    "EnglishName": "Eswatini"
+  },
+  {
+    "ID": "ET",
+    "LocalizedName": "Etiopía",
+    "EnglishName": "Ethiopia"
+  },
+  {
+    "ID": "GA",
+    "LocalizedName": "Gabón",
+    "EnglishName": "Gabon"
+  },
+  {
+    "ID": "GM",
+    "LocalizedName": "Gambia",
+    "EnglishName": "The Gambia"
+  },
+  {
+    "ID": "GH",
+    "LocalizedName": "Ghana",
+    "EnglishName": "Ghana"
+  },
+  {
+    "ID": "GN",
+    "LocalizedName": "Guinea",
+    "EnglishName": "Guinea"
+  },
+  {
+    "ID": "GQ",
+    "LocalizedName": "Guinea Ecuatorial",
+    "EnglishName": "Equatorial Guinea"
+  },
+  {
+    "ID": "KE",
+    "LocalizedName": "Kenia",
+    "EnglishName": "Kenya"
+  },
+  {
+    "ID": "LS",
+    "LocalizedName": "Lesoto",
+    "EnglishName": "Lesotho"
+  },
+  {
+    "ID": "LR",
+    "LocalizedName": "Liberia",
+    "EnglishName": "Liberia"
+  },
+  {
+    "ID": "LY",
+    "LocalizedName": "Libia",
+    "EnglishName": "Libya"
+  },
+  {
+    "ID": "MG",
+    "LocalizedName": "Madagascar",
+    "EnglishName": "Madagascar"
+  },
+  {
+    "ID": "MW",
+    "LocalizedName": "Malaui",
+    "EnglishName": "Malawi"
+  },
+  {
+    "ID": "ML",
+    "LocalizedName": "Mali",
+    "EnglishName": "Mali"
+  },
+  {
+    "ID": "MA",
+    "LocalizedName": "Marruecos",
+    "EnglishName": "Morocco"
+  },
+  {
+    "ID": "MU",
+    "LocalizedName": "Mauricio",
+    "EnglishName": "Mauritius"
+  },
+  {
+    "ID": "MR",
+    "LocalizedName": "Mauritania",
+    "EnglishName": "Mauritania"
+  },
+  {
+    "ID": "YT",
+    "LocalizedName": "Mayotte",
+    "EnglishName": "Mayotte"
+  },
+  {
+    "ID": "MZ",
+    "LocalizedName": "Mozambique",
+    "EnglishName": "Mozambique"
+  },
+  {
+    "ID": "NA",
+    "LocalizedName": "Namibia",
+    "EnglishName": "Namibia"
+  },
+  {
+    "ID": "NE",
+    "LocalizedName": "Níger",
+    "EnglishName": "Niger"
+  },
+  {
+    "ID": "NG",
+    "LocalizedName": "Nigeria",
+    "EnglishName": "Nigeria"
+  },
+  {
+    "ID": "CF",
+    "LocalizedName": "República Centroafricana",
+    "EnglishName": "Central African Republic"
+  },
+  {
+    "ID": "GW",
+    "LocalizedName": "República de Guinea Bissau",
+    "EnglishName": "Guinea-Bissau"
+  },
+  {
+    "ID": "CG",
+    "LocalizedName": "República del Congo",
+    "EnglishName": "Republic of the Congo"
+  },
+  {
+    "ID": "CD",
+    "LocalizedName": "República Democrática del Congo",
+    "EnglishName": "Democratic Republic of the Congo"
+  },
+  {
+    "ID": "RE",
+    "LocalizedName": "Reunión",
+    "EnglishName": "Reunion"
+  },
+  {
+    "ID": "RW",
+    "LocalizedName": "Ruanda",
+    "EnglishName": "Rwanda"
+  },
+  {
+    "ID": "EH",
+    "LocalizedName": "Sahara Occidental",
+    "EnglishName": "Western Sahara"
+  },
+  {
+    "ID": "SH",
+    "LocalizedName": "Santa Elena",
+    "EnglishName": "Saint Helena"
+  },
+  {
+    "ID": "ST",
+    "LocalizedName": "Santo Tomé y Príncipe",
+    "EnglishName": "Sao Tome and Principe"
+  },
+  {
+    "ID": "SN",
+    "LocalizedName": "Senegal",
+    "EnglishName": "Senegal"
+  },
+  {
+    "ID": "SC",
+    "LocalizedName": "Seychelles",
+    "EnglishName": "Seychelles"
+  },
+  {
+    "ID": "SL",
+    "LocalizedName": "Sierra Leona",
+    "EnglishName": "Sierra Leone"
+  },
+  {
+    "ID": "SO",
+    "LocalizedName": "Somalia",
+    "EnglishName": "Somalia"
+  },
+  {
+    "ID": "ZA",
+    "LocalizedName": "Sudáfrica",
+    "EnglishName": "South Africa"
+  },
+  {
+    "ID": "SD",
+    "LocalizedName": "Sudán",
+    "EnglishName": "Sudan"
+  },
+  {
+    "ID": "SS",
+    "LocalizedName": "Sudán del sur",
+    "EnglishName": "South Sudan"
+  },
+  {
+    "ID": "TZ",
+    "LocalizedName": "Tanzania",
+    "EnglishName": "Tanzania"
+  },
+  {
+    "ID": "TG",
+    "LocalizedName": "Togo",
+    "EnglishName": "Togo"
+  },
+  {
+    "ID": "TN",
+    "LocalizedName": "Túnez",
+    "EnglishName": "Tunisia"
+  },
+  {
+    "ID": "UG",
+    "LocalizedName": "Uganda",
+    "EnglishName": "Uganda"
+  },
+  {
+    "ID": "DJ",
+    "LocalizedName": "Yibuti",
+    "EnglishName": "Djibouti"
+  },
+  {
+    "ID": "ZM",
+    "LocalizedName": "Zambia",
+    "EnglishName": "Zambia"
+  },
+  {
+    "ID": "ZW",
+    "LocalizedName": "Zimbabue",
+    "EnglishName": "Zimbabwe"
+  }
+]
