@@ -1,0 +1,46 @@
+{
+  "Headline": {
+    "EffectiveDate": "2022-11-06T19:00:00-03:00",
+    "EffectiveEpochDate": 1667772000,
+    "Severity": 7,
+    "Text": "Con brisas esta noche",
+    "Category": "wind",
+    "EndDate": "2022-11-07T07:00:00-03:00",
+    "EndEpochDate": 1667815200,
+    "MobileLink": "http://www.accuweather.com/es/ar/buenos-aires/7894/daily-weather-forecast/7894?lang=es-ar",
+    "Link": "http://www.accuweather.com/es/ar/buenos-aires/7894/daily-weather-forecast/7894?lang=es-ar"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2022-11-06T07:00:00-03:00",
+      "EpochDate": 1667728800,
+      "Temperature": {
+        "Minimum": {
+          "Value": 64,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 73,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 1,
+        "IconPhrase": "Soleado",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 33,
+        "IconPhrase": "Despejado",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://www.accuweather.com/es/ar/buenos-aires/7894/daily-weather-forecast/7894?day=1&lang=es-ar",
+      "Link": "http://www.accuweather.com/es/ar/buenos-aires/7894/daily-weather-forecast/7894?day=1&lang=es-ar"
+    }
+  ]
+}

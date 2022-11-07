@@ -1,0 +1,218 @@
+[
+  {
+    "ID": "A",
+    "LocalizedName": "Salta",
+    "EnglishName": "Salta",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "B",
+    "LocalizedName": "Buenos Aires",
+    "EnglishName": "Buenos Aires",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "C",
+    "LocalizedName": "Ciudad Autónoma de Buenos Aires",
+    "EnglishName": "Buenos Aires - Capital Federal",
+    "Level": 1,
+    "LocalizedType": "Cuidad autónoma",
+    "EnglishType": "Autonomous City",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "D",
+    "LocalizedName": "San Luis",
+    "EnglishName": "San Luis",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "E",
+    "LocalizedName": "Entre Ríos",
+    "EnglishName": "Entre Rios",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "F",
+    "LocalizedName": "La Rioja",
+    "EnglishName": "La Rioja",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "G",
+    "LocalizedName": "Santiago del Estero",
+    "EnglishName": "Santiago Del Estero",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "H",
+    "LocalizedName": "Chaco",
+    "EnglishName": "Chaco",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "J",
+    "LocalizedName": "San Juan",
+    "EnglishName": "San Juan",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "K",
+    "LocalizedName": "Catamarca",
+    "EnglishName": "Catamarca",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "L",
+    "LocalizedName": "La Pampa",
+    "EnglishName": "La Pampa",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "M",
+    "LocalizedName": "Mendoza",
+    "EnglishName": "Mendoza",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "N",
+    "LocalizedName": "Misiones",
+    "EnglishName": "Misiones",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "P",
+    "LocalizedName": "Formosa",
+    "EnglishName": "Formosa",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "Q",
+    "LocalizedName": "Neuquén",
+    "EnglishName": "Neuquen",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "R",
+    "LocalizedName": "Río Negro",
+    "EnglishName": "Rio Negro",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "S",
+    "LocalizedName": "Santa Fe",
+    "EnglishName": "Santa Fe",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "T",
+    "LocalizedName": "Tucumán",
+    "EnglishName": "Tucuman",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "U",
+    "LocalizedName": "Chubut",
+    "EnglishName": "Chubut",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "V",
+    "LocalizedName": "Tierra del Fuego",
+    "EnglishName": "Tierra Del Fuego",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "W",
+    "LocalizedName": "Corrientes",
+    "EnglishName": "Corrientes",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "X",
+    "LocalizedName": "Córdoba",
+    "EnglishName": "Cordoba",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "Y",
+    "LocalizedName": "Jujuy",
+    "EnglishName": "Jujuy",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  },
+  {
+    "ID": "Z",
+    "LocalizedName": "Santa Cruz",
+    "EnglishName": "Santa Cruz",
+    "Level": 1,
+    "LocalizedType": "Provincia",
+    "EnglishType": "Province",
+    "CountryID": "AR"
+  }
+]

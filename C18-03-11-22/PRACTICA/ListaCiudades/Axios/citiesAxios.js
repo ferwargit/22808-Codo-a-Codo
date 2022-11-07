@@ -7,6 +7,7 @@ const getPaises = async (numPaises) => {
 
       resCities.data.map((ciudad) => {
         //console.log(ciudad);
+        console.log("Key: " + ciudad.Key);
         console.log("País: " + ciudad.Country.LocalizedName);
         console.log("Ciudad: " + ciudad.LocalizedName);
         console.log("Latitud: " + ciudad.GeoPosition.Latitude);
