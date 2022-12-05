@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # Creamos el proyecto peliculas-react
 
-```
+```node
 >npx create-react-app peliculas-react
 ```
 Puedo ser mas específico y decirle que use npm
